@@ -1,1 +1,0 @@
-# lotto6aus49

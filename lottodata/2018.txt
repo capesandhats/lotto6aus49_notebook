@@ -1,4 +1,6 @@
 Date,number1,number2,number3,number4,number5,number6,number7,jackpot clamied
+1st August 2018,2,22,25,32,45,46,2,5000000 R
+28th July 2018,7,11,31,34,35,36,1,4000000 R
 25th July 2018,8,9,39,40,41,43,9,1000000 R
 21st July 2018,1,6,7,20,29,49,5,6931435
 18th July 2018,5,14,19,22,33,41,1,4000000 R
